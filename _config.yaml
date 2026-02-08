@@ -1,0 +1,24 @@
+title: "Index it!"
+description: "A comprehensive offline tool for building book indexes. Perfect for GIAC/SANS certification prep   
+  and open-book exams. Features progress tracking, gap analysis, study flashcards, and multiple      
+  export formats."
+url: "https://iamsgtbaker.github.io"
+baseurl: ""
+theme: jekyll-theme-cayman
+
+# Markdown and kramdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Plugins (GitHub Pages supports a set of plugins)
+plugins:
+  - jekyll-feed
+
+# Exclude files/folders from the site build
+exclude:
+  - README.md
+
+# Author info
+author:
+  name: "iamsgtbaker"
