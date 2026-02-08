@@ -1,10 +1,11 @@
+theme: jekyll-theme-cayman
 title: "Index it!"
 description: "A comprehensive offline tool for building book indexes. Perfect for GIAC/SANS certification prep   
   and open-book exams. Features progress tracking, gap analysis, study flashcards, and multiple      
   export formats."
 url: "https://iamsgtbaker.github.io"
 baseurl: ""
-theme: jekyll-theme-cayman
+
 
 # Markdown and kramdown settings
 markdown: kramdown
